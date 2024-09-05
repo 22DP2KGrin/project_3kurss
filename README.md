@@ -2,7 +2,7 @@
 project_4kurss
 
 *Projekta apraksts*
-Vietne, kurā lietotāji var uzdot jautajumus un atbildēt uz citu dalībnieku jautājuiem par dažādām tēmām
+- Vietne, kurā lietotāji var uzdot jautajumus un atbildēt uz citu dalībnieku jautājuiem par dažādām tēmām
 
 *Iespējas*
 - Forumi
