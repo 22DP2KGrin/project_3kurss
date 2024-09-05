@@ -1,3 +1,4 @@
-# Autoskola
-project_4kursss
+# Zināšanu apmaiņas platforma
+project_4kurss
+*Projekta merķis*
 
