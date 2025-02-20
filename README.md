@@ -1,4 +1,4 @@
-# IDEJAS APRAKSTS
+## IDEJAS APRAKSTS
 
 Tiešsaistes mācību vietne valodu apguvei, kur lietotāji var izvēlēties skolotājus, dalīties ar atsauksmēm un iestatīt ērtu nodarbību grafiku. Sākumā būs pieejami uzdevumi valodu apguvei, un pakāpeniski tiks pievienoti arī skolotāji. Vietne piedāvās populārākās valodas, piemēram, angļu, vācu, franču un spāņu, kā arī iespēju pārbaudīt savas zināšanas ar pārbaudījumiem, kas novērtēs lietotāja valodas prasmes līmeni.
 
